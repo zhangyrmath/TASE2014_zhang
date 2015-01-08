@@ -1,6 +1,0 @@
-digraph BETA{
-	rankdir=LR;
-	node[shape=doublecircle];
-	p0[label="p0\n(y<=delta)\n{l}"];
-	p0->p0[label="beta"];
-}
