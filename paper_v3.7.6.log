@@ -1,0 +1,1093 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.3)  8 JAN 2015 17:39
+entering extended mode
+**E:/study-2014ECNU[[[/github/test/paper_v3.7.6.tex
+(E:/study-2014ECNU[[[/github/test/paper_v3.7.6.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) ("D:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen117
+))
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\cases\cases.sty"
+Package: cases 2002/05/02 ver 2.5 
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty"
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty"
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty"
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks20
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box29
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty"
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty"
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.t
+ex"
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen128
+\pgf@y=\dimen129
+\pgf@xa=\dimen130
+\pgf@ya=\dimen131
+\pgf@xb=\dimen132
+\pgf@yb=\dimen133
+\pgf@xc=\dimen134
+\pgf@yc=\dimen135
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count104
+\c@pgf@countb=\count105
+\c@pgf@countc=\count106
+\c@pgf@countd=\count107
+ ("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.de
+f"
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.
+tex"
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count108
+\pgfsyssoftpath@bigbuffer@items=\count109
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.
+tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("D:\Program Files\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex"
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex")
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen136
+\pgfmath@count=\count110
+\pgfmath@box=\box30
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code
+.tex")
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonomet
+ric.code.tex")
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.cod
+e.tex")
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison
+.code.tex")
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.
+tex")
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code
+.tex")
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.
+tex")))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count111
+))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.te
+x"
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen137
+\pgf@picmaxx=\dimen138
+\pgf@picminy=\dimen139
+\pgf@picmaxy=\dimen140
+\pgf@pathminx=\dimen141
+\pgf@pathmaxx=\dimen142
+\pgf@pathminy=\dimen143
+\pgf@pathmaxy=\dimen144
+\pgf@xx=\dimen145
+\pgf@xy=\dimen146
+\pgf@yx=\dimen147
+\pgf@yy=\dimen148
+\pgf@zx=\dimen149
+\pgf@zy=\dimen150
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.
+code.tex"
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen151
+\pgf@path@lasty=\dimen152
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code
+.tex"
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen153
+\pgf@shorten@start@additional=\dimen154
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.te
+x"
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count112
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.c
+ode.tex"
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen155
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformation
+s.code.tex"
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen156
+\pgf@pt@y=\dimen157
+\pgf@pt@temp=\dimen158
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.t
+ex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing
+.code.tex"
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.te
+x"
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+"
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen159
+\pgf@sys@shading@range@num=\count113
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+"
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.
+tex"
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box34
+))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.te
+x"
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.c
+ode.tex"
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.
+tex"
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+"
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box35
+) ("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+"
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65
+.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen160
+\pgf@nodesepend=\dimen161
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18
+.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+)) ("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty"
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\utilities\pgffor.sty"
+("D:\Program Files\CTEX\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty"
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen162
+\pgffor@skip=\dimen163
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+"
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers
+.code.tex"
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count114
+\pgfplotmarksize=\dimen164
+)
+\tikz@lastx=\dimen165
+\tikz@lasty=\dimen166
+\tikz@lastxsaved=\dimen167
+\tikz@lastysaved=\dimen168
+\tikzleveldistance=\dimen169
+\tikzsiblingdistance=\dimen170
+\tikz@figbox=\box36
+\tikz@tempbox=\box37
+\tikztreelevel=\count115
+\tikznumberofchildren=\count116
+\tikznumberofcurrentchild=\count117
+\tikz@fig@count=\count118
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+"
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count119
+\pgfmatrixcurrentcolumn=\count120
+\pgf@matrix@numberofcolumns=\count121
+)
+\tikz@expandcount=\count122
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tik
+zlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+("D:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 39.
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks30
+\thm@bodyfont=\toks31
+\thm@headfont=\toks32
+\thm@notefont=\toks33
+\thm@headpunct=\toks34
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks35
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\framed\framed.sty"
+Package: framed 2007/10/04 v 0.95: framed or shaded text with page breaks
+\fb@frw=\dimen171
+\fb@frh=\dimen172
+\FrameRule=\dimen173
+\FrameSep=\dimen174
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count123
+\mult@box=\box38
+\multicol@leftmargin=\dimen175
+\c@unbalance=\count124
+\c@collectmore=\count125
+\doublecol@number=\count126
+\multicoltolerance=\count127
+\multicolpretolerance=\count128
+\full@width=\dimen176
+\page@free=\dimen177
+\premulticols=\dimen178
+\postmulticols=\dimen179
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box39
+\last@line=\box40
+\mult@rightbox=\box41
+\mult@grightbox=\box42
+\mult@gfirstbox=\box43
+\mult@firstbox=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\c@columnbadness=\count129
+\c@finalcolumnbadness=\count130
+\last@try=\dimen180
+\multicolovershoot=\dimen181
+\multicolundershoot=\dimen182
+\mult@nat@firstbox=\box62
+\colbreak@box=\box63
+\multicol@sort@counter=\count131
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks36
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\makecell\makecell.sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen183
+\extrarowheight=\dimen184
+\NC@list=\toks37
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+\rotheadsize=\dimen185
+\c@nlinenum=\count132
+\TeXr@lab=\toks38
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\listings\listings.sty"
+\lst@mode=\count133
+\lst@gtempboxa=\box64
+\lst@token=\toks39
+\lst@length=\count134
+\lst@currlwidth=\dimen186
+\lst@column=\count135
+\lst@pos=\count136
+\lst@lostspace=\dimen187
+\lst@width=\dimen188
+\lst@newlines=\count137
+\lst@lineno=\count138
+\lst@maxwidth=\dimen189
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count139
+\lst@skipnumbers=\count140
+\lst@framebox=\box65
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tik
+zlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.
+tex"
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen190
+))
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tik
+zlibraryautomata.code.tex"
+File: tikzlibraryautomata.code.tex 2008/07/14 v2.10 (rcs-revision 1.3)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tik
+zlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+("D:\Program Files\CTEX\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshape
+s.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v2.10 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box66
+\pgfnodeparttwobox=\box67
+\pgfnodepartthreebox=\box68
+\pgfnodepartfourbox=\box69
+\pgfnodeparttwentybox=\box70
+\pgfnodepartnineteenbox=\box71
+\pgfnodeparteighteenbox=\box72
+\pgfnodepartseventeenbox=\box73
+\pgfnodepartsixteenbox=\box74
+\pgfnodepartfifteenbox=\box75
+\pgfnodepartfourteenbox=\box76
+\pgfnodepartthirteenbox=\box77
+\pgfnodeparttwelvebox=\box78
+\pgfnodepartelevenbox=\box79
+\pgfnodeparttenbox=\box80
+\pgfnodepartninebox=\box81
+\pgfnodeparteightbox=\box82
+\pgfnodepartsevenbox=\box83
+\pgfnodepartsixbox=\box84
+\pgfnodepartfivebox=\box85
+)))
+\c@mydef=\count141
+\c@mytheo=\count142
+\c@lemma=\count143
+\c@prop=\count144
+\c@cor=\count145
+
+** ATTENTION: Overriding command lockouts (line 394).
+(E:\study-2014ECNU[[[\github\test\paper_v3.7.6.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 396.
+LaTeX Font Info:    ... okay on input line 396.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 396.
+LaTeX Font Info:    ... okay on input line 396.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 396.
+LaTeX Font Info:    ... okay on input line 396.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 396.
+LaTeX Font Info:    ... okay on input line 396.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 396.
+LaTeX Font Info:    ... okay on input line 396.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 396.
+LaTeX Font Info:    ... okay on input line 396.
+
+ABD: EveryShipout initializing macros
+("D:\Program Files\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count146
+\scratchdimen=\dimen191
+\scratchbox=\box86
+\nofMPsegments=\count147
+\nofMParguments=\count148
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count149
+\MPscratchDim=\dimen192
+\MPnumerator=\count150
+\makeMPintoPDFobject=\count151
+\everyMPtoPDFconversion=\toks41
+)
+\c@lstlisting=\count152
+LaTeX Font Info:    Try loading font information for U+stmry on input line 507.
+
+ ("D:\Program Files\CTEX\MiKTeX\tex\latex\stmaryrd\ustmry.fd")
+LaTeX Font Info:    Try loading font information for U+msa on input line 507.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 507.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1{D:/Program Files/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.
+sfd}}
+
+
+]
+<graph/g147.PNG, id=12, 895.84688pt x 187.45032pt>
+File: graph/g147.PNG Graphic file (type png)
+ <use graph/g147.PNG>
+Package pdftex.def Info: graph/g147.PNG used on input line 547.
+(pdftex.def)             Requested size: 284.52756pt x 59.5334pt.
+
+Overfull \hbox (32.52756pt too wide) in paragraph at lines 547--548
+ [][] 
+ []
+
+[2 <E:/study-2014ECNU[[[/github/test/graph/g147.PNG>]
+Underfull \hbox (badness 1728) in paragraph at lines 616--618
+[]\OT1/ptm/m/n/10 A con-fig-u-ra-tion of pro-cess $\OML/cmm/m/it/10 P$ \OT1/ptm
+/m/n/10 is de-fined as a tu-ple
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 622--625
+\OT1/ptm/m/n/10 Any tran-si-tion re-la-tion is de-not-ed as $\OMS/cmsy/m/n/10 h
+\OML/cmm/m/it/10 P; \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a; u; \OT1/cmr/m/n/10 )\
+OMS/cmsy/m/n/10 i !$
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 707.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 707.
+
+<graph/prec.png, id=25, 583.42969pt x 177.66376pt>
+File: graph/prec.png Graphic file (type png)
+ <use graph/prec.png>
+Package pdftex.def Info: graph/prec.png used on input line 733.
+(pdftex.def)             Requested size: 216.81pt x 66.02191pt.
+
+[3] <graph/subclock2.png, id=38, 585.68813pt x 178.41656pt>
+File: graph/subclock2.png Graphic file (type png)
+
+<use graph/subclock2.png>
+Package pdftex.def Info: graph/subclock2.png used on input line 774.
+(pdftex.def)             Requested size: 216.81pt x 66.04575pt.
+
+Underfull \hbox (badness 3029) in paragraph at lines 814--816
+[]\OT1/ptm/m/n/10 Let $\OML/cmm/m/it/10 c[]$ $\OT1/cmr/m/n/10 = \OMS/cmsy/m/n/1
+0 hI[]\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 \OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 
+D[]\OML/cmm/m/it/10 ; []; []\OMS/cmsy/m/n/10 i$ \OT1/ptm/m/n/10 and $\OML/cmm
+/m/it/10 c[]$ $\OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 hI[]\OML/cmm/m/it/10 ; \OMS/c
+msy/m/n/10 $
+ []
+
+[4 <E:/study-2014ECNU[[[/github/test/graph/prec.png> <E:/study-2014ECNU[[[/gith
+ub/test/graph/subclock2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 885--886
+[]\OT1/ptm/m/n/10 The op-er-a-tional se-man-tic-s of a TA $\OML/cmm/m/it/10 A \
+OT1/cmr/m/n/10 =$
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 890--891
+[]\OT1/ptm/m/n/10 where each map-ping de-ter-mines a tran-si-tion re-la-tion
+ []
+
+
+Overfull \hbox (13.14336pt too wide) detected at line 901
+\OML/cmm/m/it/10 ,[]\OMS/cmsy/m/n/10 ![] \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 q; 
+\OT1/cmr/m/n/10 ) = []
+ []
+
+
+Overfull \hbox (4.78032pt too wide) in paragraph at lines 928--928
+ []\OT1/phv/b/n/5 ($\OML/cmm/m/it/5 A[]$\OT1/phv/b/n/5 ,$\OML/cmm/m/it/5 A[]$\O
+T1/phv/b/n/5 ) 
+ []
+
+[5]
+Overfull \hbox (4.78032pt too wide) in paragraph at lines 976--976
+ []\OT1/phv/b/n/5 ($\OML/cmm/m/it/5 A[]$\OT1/phv/b/n/5 ,$\OML/cmm/m/it/5 A[]$\O
+T1/phv/b/n/5 ) 
+ []
+
+
+Overfull \hbox (1.37651pt too wide) in paragraph at lines 982--982
+ [][][][]\OT1/phv/b/n/5 Contributions 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 994.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 994.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
+[]\OT1/ptm/m/n/10 For ex-am-ple, the al-pha-bet of an atom-ic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
+\OT1/ptm/m/n/10 pro-cess $\OML/cmm/m/it/10 Send[]\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 Appr\OT1/cmr/m/n/10 )$ \OT1/ptm/m/n/10 is '$\OML/cmm/m/it/10 Send$\OT1/ptm/
+m/n/10 ', de-not-ed as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1063
+[]\OT1/ptm/m/n/10 Another ex-am-ple, let $\OML/cmm/m/it/10 P \OT1/cmr/m/n/10 =$
+
+ []
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 1061--1063
+$\OML/cmm/m/it/10 Run\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 1\OT1/cmr/m/n/10 ); (\OM
+L/cmm/m/it/10 Send[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Appr\OT1/cmr/m/n/10 ) \OM
+S/cmsy/m/n/10 k \OML/cmm/m/it/10 Approach[]\OT1/cmr/m/n/10 ( ))$\OT1/ptm/m/n/10
+ .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+$\OML/cmm/m/it/10 Approach[]\OT1/cmr/m/n/10 ( ))$\OT1/ptm/m/n/10 . Then $[]\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 ) =$
+ []
+
+
+Overfull \hbox (7.47794pt too wide) in paragraph at lines 1080--1082
+$\OMS/cmsy/m/n/10 fh\OML/cmm/m/it/10 Run; l[]; t[]; \OMS/cmsy/m/n/10 1i\OML/cmm
+/m/it/10 ; \OMS/cmsy/m/n/10 h[]\OML/cmm/m/it/10 ; Lapp; t; \OT1/cmr/m/n/10 0\OM
+S/cmsy/m/n/10 i\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 h\OML/cmm/m/it/10 Approach; 
+Lapp; t; \OT1/cmr/m/n/10  \OMS/cmsy/m/n/10 ig$\OT1/ptm/m/n/10 . 
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 1190--1195
+[]$[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B \OMS/cmsy/m/n/10 ! \OML/cmm/m/it/10 P\
+OT1/cmr/m/n/10 ) =$
+ []
+
+
+Overfull \hbox (19.6492pt too wide) in paragraph at lines 1190--1195
+$[]$ 
+ []
+
+[7]
+Underfull \hbox (badness 2050) in paragraph at lines 1274--1277
+\OT1/ptm/m/it/10 where $[]$ rep-re-sents the set of al-l TAs. Let $\OML/cmm/m/i
+t/10 A[] \OT1/cmr/m/n/10 =$
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 1274--1277
+$\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Q[]; \OT1/cmr/m/n/10 []\OML/cmm/m/it/10 ; \
+OMS/cmsy/m/n/10 C[]\OML/cmm/m/it/10 ; q[]; E[]; I[]; AP[]; L[]; F[]\OT1/cmr/m/n
+/10 )$ \OT1/ptm/m/it/10 such that $\OML/cmm/m/it/10 A[] \OT1/cmr/m/n/10 =$
+ []
+
+[8] [9]
+Overfull \hbox (3.79149pt too wide) in paragraph at lines 1876--1877
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 1897--1900
+[]\OT1/ptm/m/it/10 Let $\OMS/cmsy/m/n/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P \
+U/msa/m/n/10 D[] \OML/cmm/m/it/10 Q\OT1/cmr/m/n/10 ) = (\OML/cmm/m/it/10 Q; \OT
+1/cmr/m/n/10 \OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 C\OML/cmm/m/it/10 ; q[]; E; I
+; AP; L; F\OT1/cmr/m/n/10 ) =$
+ []
+
+
+Overfull \hbox (0.62526pt too wide) in paragraph at lines 1941--1942
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1955
+\OT1/ptm/m/it/10 and $\OMS/cmsy/m/n/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 P[]\O
+T1/cmr/m/n/10 )$ $= (\OML/cmm/m/it/10 Q[]; \OT1/cmr/m/n/10 []\OML/cmm/m/it/10 
+; \OMS/cmsy/m/n/10 C[]\OML/cmm/m/it/10 ; s[]; E[]; I[]; AP[]; L[]; F[]\OT1/cmr/
+m/n/10 )$\OT1/ptm/m/it/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1955
+\OT1/ptm/m/it/10 We de-fine $\OMS/cmsy/m/n/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
+0 P \U/msa/m/n/10 D \OT1/cmr/m/n/10 ([][]\OML/cmm/m/it/10 A[] \OMS/cmsy/m/n/10 
+! \OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 ))$ $=$
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 1965--1966
+[]$\OML/cmm/m/it/10 E \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 E[] \OMS/cmsy/m/n/10 [
+ \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 [[]\OML/cmm/m/it/10 E[]\OT1/cmr/m/n/10 )$ $\
+OMS/cmsy/m/n/10 [$ $fh\OML/cmm/m/it/10 q; \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 m[
+]\OMS/cmsy/m/n/10 g\OML/cmm/m/it/10 ; x \OT1/cmr/m/n/10 ==$
+ []
+
+
+Overfull \hbox (0.62526pt too wide) in paragraph at lines 1995--1996
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 2001--2003
+[]\OT1/ptm/m/it/10 Fig. 18[] shows the com-bi-na-tion pro-ce-dure of $\OML/cmm/
+m/it/10 P \U/msa/m/n/10 D$
+ []
+
+[10]
+** ATTENTION: \proof is deprecated (line 2013). Use \IEEEproof instead.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2061--2062
+\OT1/ptm/m/it/10 de-fine the sim-pli-fied TA of $\OML/cmm/m/it/10 A$ \OT1/ptm/m
+/it/10 as $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A\OT1/cmr/m/n/10 )$ $=$
+ []
+
+<graph/Train_Gate.png, id=76, 1264.725pt x 412.54124pt>
+File: graph/Train_Gate.png Graphic file (type png)
+
+<use graph/Train_Gate.png>
+Package pdftex.def Info: graph/Train_Gate.png used on input line 2230.
+(pdftex.def)             Requested size: 180.67499pt x 58.93251pt.
+ [11]
+Overfull \hbox (19.7877pt too wide) detected at line 2279
+ []
+ []
+
+
+Overfull \hbox (15.57445pt too wide) detected at line 2300
+\OML/cmm/m/it/10 P[] \OT1/cmr/m/n/10 = []
+ []
+
+
+Overfull \hbox (5.07788pt too wide) in paragraph at lines 2349--2350
+[]$\OT1/cmr/m/n/10  = \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 Run; Appr\OT1/cmr/m/n
+/10 !\OML/cmm/m/it/10 ; Cross\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 ; Approach; Pass
+; Noncross\OT1/cmr/m/n/10 ?$ 
+ []
+
+[12 <E:/study-2014ECNU[[[/github/test/graph/Train_Gate.png>]
+Overfull \hbox (9.80463pt too wide) detected at line 2456
+\OML/cmm/m/it/10 A[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 F\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 P[]\OT1/cmr/m/n/10 ) = \OMS/cmsy/m/n/10 F\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 P[] \OMS/cmsy/m/n/10 k \OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 ) = \OML/cmm
+/m/it/10 A[] \OMS/cmsy/m/n/10 
+[] \OML/cmm/m/it/10 A[]
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 2473
+.
+("D:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <9> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 2475.
+
+Overfull \hbox (7.20264pt too wide) in paragraph at lines 2480--2481
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.80258pt too wide) in paragraph at lines 2483--2484
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.80258pt too wide) in paragraph at lines 2486--2487
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (28.80286pt too wide) in paragraph at lines 2495--2496
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (28.80286pt too wide) in paragraph at lines 2499--2500
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (28.80286pt too wide) in paragraph at lines 2500--2501
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 2577--2577
+[][][]\OT1/ptm/m/n/8 'graphviz' is a fa-mous open source vi-su-al-iza-tion tool
+, vis-it
+ []
+
+<graph/Gate_272.png, id=90, 610.28pt x 2224.31pt>
+File: graph/Gate_272.png Graphic file (type png)
+ <use graph/Gate_272.png>
+Package pdftex.def Info: graph/Gate_272.png used on input line 2582.
+(pdftex.def)             Requested size: 152.56963pt x 556.07614pt.
+
+<graph/CCSL_1.PNG, id=91, 559.33969pt x 182.18062pt>
+File: graph/CCSL_1.PNG Graphic file (type png)
+ <use graph/CCSL_1.PNG>
+Package pdftex.def Info: graph/CCSL_1.PNG used on input line 2612.
+(pdftex.def)             Requested size: 251.70053pt x 81.98051pt.
+
+[14 <E:/study-2014ECNU[[[/github/test/graph/Gate_272.png>]
+<graph/CCSL_prop1.png, id=95, 236.38312pt x 252.19218pt>
+File: graph/CCSL_prop1.png Graphic file (type png)
+
+<use graph/CCSL_prop1.png>
+Package pdftex.def Info: graph/CCSL_prop1.png used on input line 2933.
+(pdftex.def)             Requested size: 180.67499pt x 192.76091pt.
+ [15 <E:/study-2014ECNU[[[/github/test/graph/CCSL_1.PNG>] <graph/CCSL_prop2.png
+, id=100, 387.69844pt x 330.48468pt>
+File: graph/CCSL_prop2.png Graphic file (type png)
+
+<use graph/CCSL_prop2.png>
+Package pdftex.def Info: graph/CCSL_prop2.png used on input line 3055.
+(pdftex.def)             Requested size: 180.67499pt x 154.01164pt.
+ (E:\study-2014ECNU[[[\github\test\paper_v3.7.6.bbl
+[16 <E:/study-2014ECNU[[[/github/test/graph/CCSL_prop1.png>])
+<graph/Train_TA_uppaal.png, id=105, 875.52094pt x 164.11313pt>
+File: graph/Train_TA_uppaal.png Graphic file (type png)
+
+<use graph/Train_TA_uppaal.png>
+Package pdftex.def Info: graph/Train_TA_uppaal.png used on input line 3275.
+(pdftex.def)             Requested size: 437.7594pt x 82.05635pt.
+
+<graph/Gate_TA_uppaal.png, id=106, 825.83531pt x 222.07968pt>
+File: graph/Gate_TA_uppaal.png Graphic file (type png)
+
+<use graph/Gate_TA_uppaal.png>
+Package pdftex.def Info: graph/Gate_TA_uppaal.png used on input line 3282.
+(pdftex.def)             Requested size: 412.91664pt x 111.03957pt.
+
+<graph/running.png, id=107, 897.3525pt x 593.96906pt>
+File: graph/running.png Graphic file (type png)
+ <use graph/running.png>
+Package pdftex.def Info: graph/running.png used on input line 3289.
+(pdftex.def)             Requested size: 448.67514pt x 296.9838pt.
+
+<graph/veri.jpg, id=108, 363.60844pt x 424.58624pt>
+File: graph/veri.jpg Graphic file (type jpg)
+ <use graph/veri.jpg>
+Package pdftex.def Info: graph/veri.jpg used on input line 3296.
+(pdftex.def)             Requested size: 180.67499pt x 210.97743pt.
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[17 <E:/study-2014ECNU[[[/github/test/graph/CCSL_prop2.png> <E:/study-2014ECNU[
+[[/github/test/graph/veri.jpg>] [18 <E:/study-2014ECNU[[[/github/test/graph/Tra
+in_TA_uppaal.png> <E:/study-2014ECNU[[[/github/test/graph/Gate_TA_uppaal.png> <
+E:/study-2014ECNU[[[/github/test/graph/running.png>]
+(E:\study-2014ECNU[[[\github\test\paper_v3.7.6.aux) ) 
+Here is how much of TeX's memory you used:
+ 14257 strings out of 495354
+ 265758 string characters out of 3183075
+ 351335 words of memory out of 3000000
+ 17106 multiletter control sequences out of 15000+200000
+ 56451 words of font info for 119 fonts, out of 3000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 49i,14n,76p,1202b,1093s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Program Files/CTEX/MiK
+TeX/fonts/enc/dvips/fontname/8r.enc}<D:/Program Files/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmbx7.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx8.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.p
+fb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/
+Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Program 
+Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/Program Files/CT
+EX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Program Files/CTEX/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Program Files/CTEX/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmmi9.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr5.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr6.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+<D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Progr
+am Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Program Files/
+CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/CTEX/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><D:/Program Files/CTEX/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy6.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy9.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols
+/msam10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/m
+sam7.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.
+pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/hoekwater/stmary10.pfb><D:
+/Program Files/CTEX/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><D:/Program Files
+/CTEX/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><D:/Program Files/CTEX/MiKTeX/f
+onts/type1/urw/helvetic/uhvb8a.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/ur
+w/helvetic/uhvr8a.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/urw/times/utmb8
+a.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><D:/Progr
+am Files/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/Program Files/CTEX/Mi
+KTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper_v3.7.6.pdf (18 pages, 1068999 bytes).
+PDF statistics:
+ 230 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+
