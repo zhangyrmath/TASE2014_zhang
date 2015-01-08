@@ -1,0 +1,31 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: 01082015.aux
+The style file: ieeetr.bst
+Database file #1: ref.bib
+Repeated entry---line 221 of file ref.bib
+ : @phdthesis{mallet10
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 243 of file ref.bib
+ : @inproceedings{zaretska
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 283 of file ref.bib
+ : @article{schneider95
+ :                     ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "chen12"
+refers to entry "conf/isorc/2012w", which doesn't exist
+A bad cross reference---entry "gascon11"
+refers to entry "conf/time/2011", which doesn't exist
+A bad cross reference---entry "wu13"
+refers to entry "conf/tase/2013", which doesn't exist
+A bad cross reference---entry "roscoe83"
+refers to entry "conf/acs/1983", which doesn't exist
+Warning--I didn't find a database entry for "conf/isorc/2012w"
+Warning--I didn't find a database entry for "conf/time/2011"
+Warning--I didn't find a database entry for "conf/tase/2013"
+Warning--I didn't find a database entry for "conf/acs/1983"
+Warning--empty institution in andre08
+Warning--empty institution in mallet13
+Warning--empty institution in andre09
+(There were 7 error messages)
