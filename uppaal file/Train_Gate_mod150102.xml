@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE nta PUBLIC '-//Uppaal Team//DTD Flat System 1.1//EN' 'http://www.it.uu.se/research/group/darts/uppaal/flat-1_1.dtd'><nta><declaration>
+chan Leave,NonCross,Cross,Appr;
+chan Act_Close,Act_Pass,Act_Open;
+
+//bool train_pass=false;
+/*
+bool Pass_tick;
+bool Close_tick;
+bool Open_tick;
+*/</declaration><template><name>Gate</name><declaration>
+clock x;
+
+clock y;
+
+bool Closed;
+
+bool Unclosed;
+
+bool Open=true;
+
+void Closed_t() {
+	Closed=true;
+}
+
+void Closed_f() {
+	Closed=false;
+}
+
+void Unclosed_t() {
+	Unclosed=true;
+}
+
+void Unclosed_f() {
+	Unclosed=false;
+}
+
+void Open_t() {
+	Open=true;
+}
+
+void Open_f() {
+	Open=false;
+}
+</declaration><location id="id0" x="0" y="0"><name x="-20" y="20">Get_S106</name></location><location id="id1" x="200" y="0"><name x="180" y="20">Closing_S114</name><label kind="invariant" x="180" y="-30">y&lt;=4</label></location><location id="id2" x="400" y="0"><name x="380" y="20">Unclosed_S158</name><label kind="invariant" x="380" y="-30">y&lt;=1</label></location><location id="id3" x="600" y="150"><name x="580" y="170">Send_S131</name></location><location id="id4" x="800" y="150"><name x="780" y="170">Get_S140</name></location><location id="id5" x="1000" y="150"><name x="980" y="170">Opening_S149</name><label kind="invariant" x="980" y="120">y&lt;=4</label></location><location id="id6" x="1200" y="150"><name x="1168" y="184">Opening_F150</name><label kind="invariant" x="1190" y="165">y&lt;=0</label></location><location id="id7" x="1400" y="0"><name x="1380" y="20">F_211</name><label kind="invariant" x="1368" y="-8">y&lt;=0</label></location><location id="id8" x="600" y="-150"><name x="580" y="-130">S_164_171</name><label kind="invariant" x="580" y="-180">y&lt;=4</label></location><location id="id9" x="800" y="-75"><name x="780" y="-55">S_165_171</name><label kind="invariant" x="780" y="-105">y&lt;=4</label></location><location id="id10" x="1000" y="-75"><name x="980" y="-55">Send_S187</name></location><location id="id11" x="1200" y="-75"><name x="1180" y="-55">Get_S195</name></location><location id="id12" x="1400" y="-75"><name x="1380" y="-55">Opening_S203</name><label kind="invariant" x="1380" y="-105">y&lt;=4</label></location><location id="id13" x="1600" y="-75"><name x="1580" y="-55">Opening_F204</name><label kind="invariant" x="1584" y="-120">y&lt;=0</label></location><location id="id14" x="800" y="-225"><name x="780" y="-205">S_164_172</name></location><init ref="id0"/><transition><source ref="id0"/><target ref="id1"/><label kind="synchronisation" x="100" y="40">Appr?</label><label kind="assignment" x="20" y="30">y=0</label><nail x="100" y="50"/></transition><transition><source ref="id1"/><target ref="id2"/><label kind="guard" x="280" y="20">y==4</label><label kind="assignment" x="220" y="30">y=0,Open_f(),Closed_t(),Unclosed_t()</label><nail x="300" y="50"/></transition><transition><source ref="id2"/><target ref="id8"/><label kind="guard" x="480" y="-55">y==0</label><label kind="assignment" x="420" y="-45">y=0,Closed_f()</label><nail x="500" y="-25"/></transition><transition><source ref="id2"/><target ref="id3"/><label kind="guard" x="480" y="95">y==1</label><label kind="synchronisation" x="496" y="72">Act_Close!</label><label kind="assignment" x="420" y="105">y=0,Unclosed_f()</label><nail x="500" y="125"/></transition><transition><source ref="id3"/><target ref="id4"/><label kind="synchronisation" x="700" y="190">Cross!</label><label kind="assignment" x="620" y="180">y=0</label><nail x="700" y="200"/></transition><transition><source ref="id4"/><target ref="id5"/><label kind="synchronisation" x="900" y="190">Leave?</label><label kind="assignment" x="820" y="180">y=0</label><nail x="900" y="200"/></transition><transition><source ref="id5"/><target ref="id6"/><label kind="guard" x="1080" y="170">y==4</label><label kind="assignment" x="1020" y="180">y=0,Closed_f()</label><nail x="1100" y="200"/></transition><transition><source ref="id6"/><target ref="id7"/><label kind="guard" x="1280" y="95">y==0</label><label kind="assignment" x="1220" y="105">y=0</label><nail x="1300" y="125"/></transition><transition><source ref="id7"/><target ref="id0"/><label kind="synchronisation" x="1160" y="48">Act_Open!</label><label kind="assignment" x="1420" y="30">y=0,Open_t()</label><nail x="1500" y="50"/></transition><transition><source ref="id8"/><target ref="id14"/><label kind="guard" x="680" y="-168">y==4</label><label kind="synchronisation" x="640" y="-202">Act_Close!</label><label kind="assignment" x="620" y="-158">y=0</label><nail x="700" y="-138"/></transition><transition><source ref="id8"/><target ref="id9"/><label kind="synchronisation" x="700" y="-73">NonCross!</label><label kind="assignment" x="620" y="-83">y=0</label><nail x="700" y="-63"/></transition><transition><source ref="id9"/><target ref="id10"/><label kind="guard" x="880" y="-55">y==4</label><label kind="synchronisation" x="864" y="-80">Act_Close!</label><label kind="assignment" x="820" y="-45">y=0,Closed_t()</label><nail x="900" y="-25"/></transition><transition><source ref="id10"/><target ref="id11"/><label kind="synchronisation" x="1100" y="-35">Cross!</label><label kind="assignment" x="1020" y="-45">y=0,Unclosed_f()</label><nail x="1100" y="-25"/></transition><transition><source ref="id11"/><target ref="id12"/><label kind="synchronisation" x="1300" y="-35">Leave?</label><label kind="assignment" x="1220" y="-45">y=0</label><nail x="1300" y="-25"/></transition><transition><source ref="id12"/><target ref="id13"/><label kind="guard" x="1480" y="-55">y==4</label><label kind="assignment" x="1420" y="-45">y=0,Closed_f()</label><nail x="1500" y="-25"/></transition><transition><source ref="id13"/><target ref="id7"/><label kind="guard" x="1680" y="-55">y==0</label><label kind="assignment" x="1620" y="-45">y=0</label><nail x="1700" y="-25"/></transition><transition><source ref="id14"/><target ref="id10"/><label kind="synchronisation" x="900" y="-185">NonCross!</label><label kind="assignment" x="820" y="-195">y=0,Closed_t()</label><nail x="900" y="-175"/></transition></template><template><name>Train</name><declaration>
+clock x;
+
+clock y;
+
+bool Lpass;
+
+bool Lleav;
+
+bool Lstop;
+
+bool Lapp;
+
+void Lpass_t() {
+	Lpass=true;
+}
+
+void Lpass_f() {
+	Lpass=false;
+}
+
+void Lleav_t() {
+	Lleav=true;
+}
+
+void Lleav_f() {
+	Lleav=false;
+}
+
+void Lstop_t() {
+	Lstop=true;
+}
+
+void Lstop_f() {
+	Lstop=false;
+}
+
+void Lapp_t() {
+	Lapp=true;
+}
+
+void Lapp_f() {
+	Lapp=false;
+}
+
+/*
+void train_pass_h(){
+	train_pass=true;
+}
+*/	</declaration><location id="id15" x="0" y="0"><name x="-20" y="20">Run_S3</name><label kind="invariant" x="-16" y="-40">y&lt;=1000</label></location><location id="id16" x="200" y="0"><name x="180" y="20">S_8_16</name><label kind="invariant" x="180" y="-30">y&lt;=5</label></location><location id="id17" x="400" y="75"><name x="380" y="95">S_8_17</name></location><location id="id18" x="600" y="75"><name x="580" y="95">Get_S58</name></location><location id="id19" x="800" y="150"><name x="780" y="170">Stop_S65</name><label kind="invariant" x="780" y="120">y&lt;=8</label></location><location id="id20" x="1000" y="150"><name x="980" y="170">Get_S74</name></location><location id="id21" x="1200" y="150"><name x="1180" y="170">Pass_S83</name><label kind="invariant" x="1180" y="120">y&lt;=10</label></location><location id="id22" x="1400" y="150"><name x="1380" y="170">Send_S91</name></location><location id="id23" x="1600" y="150"><name x="1580" y="170">Send_F92</name><label kind="invariant" x="1590" y="165">y&lt;=0</label></location><location id="id24" x="1800" y="150"><name x="1780" y="170">F_99</name><label kind="invariant" x="1776" y="104">y&lt;=0</label></location><location id="id25" x="800" y="0"><name x="780" y="20">Pass_S39</name><label kind="invariant" x="780" y="-30">y&lt;=10</label></location><location id="id26" x="1000" y="0"><name x="980" y="20">Send_S48</name></location><location id="id27" x="1200" y="0"><name x="1180" y="20">Send_F49</name><label kind="invariant" x="1190" y="15">y&lt;=0</label></location><location id="id28" x="400" y="-75"><name x="380" y="-55">S_9_16</name><label kind="invariant" x="380" y="-105">y&lt;=5</label></location><init ref="id15"/><transition><source ref="id15"/><target ref="id16"/><label kind="assignment" x="20" y="30">y=0,Lapp_t()</label><nail x="100" y="50"/></transition><transition><source ref="id16"/><target ref="id28"/><label kind="synchronisation" x="300" y="2">Appr!</label><label kind="assignment" x="220" y="-8">y=0</label><nail x="300" y="12"/></transition><transition><source ref="id16"/><target ref="id17"/><label kind="guard" x="280" y="57">y==5</label><label kind="assignment" x="220" y="67">y=0</label><nail x="300" y="87"/></transition><transition><source ref="id17"/><target ref="id18"/><label kind="synchronisation" x="500" y="115">Appr!</label><label kind="assignment" x="420" y="105">y=0,Lpass_t()</label><nail x="500" y="125"/></transition><transition><source ref="id18"/><target ref="id25"/><label kind="synchronisation" x="700" y="77">Cross?</label><label kind="assignment" x="620" y="67">y=0,Lapp_f()</label><nail x="700" y="87"/></transition><transition><source ref="id18"/><target ref="id19"/><label kind="synchronisation" x="700" y="152">NonCross?</label><label kind="assignment" x="620" y="142">y=0,Lapp_f()</label><nail x="700" y="162"/></transition><transition><source ref="id19"/><target ref="id20"/><label kind="guard" x="880" y="170">y==8</label><label kind="assignment" x="820" y="180">y=0,Lpass_f(),Lstop_t()</label><nail x="900" y="200"/></transition><transition><source ref="id20"/><target ref="id21"/><label kind="synchronisation" x="1100" y="190">Cross?</label><label kind="assignment" x="1020" y="180">y=0</label><nail x="1100" y="200"/></transition><transition><source ref="id21"/><target ref="id22"/><label kind="guard" x="1280" y="170">y==10</label><label kind="synchronisation" x="1272" y="144">Act_Pass!</label><label kind="assignment" x="1220" y="180">y=0,Lstop_f(),Lleav_t()</label><nail x="1300" y="200"/></transition><transition><source ref="id22"/><target ref="id23"/><label kind="synchronisation" x="1500" y="190">Leave!</label><label kind="assignment" x="1420" y="180">y=0</label><nail x="1500" y="200"/></transition><transition><source ref="id23"/><target ref="id24"/><label kind="guard" x="1680" y="170">y==0</label><label kind="assignment" x="1620" y="180">y=0,Lleav_f()</label><nail x="1700" y="200"/></transition><transition><source ref="id24"/><target ref="id15"/><label kind="assignment" x="1472" y="-104">y=0</label><nail x="1500" y="-116"/><nail x="540" y="-44"/></transition><transition><source ref="id25"/><target ref="id26"/><label kind="guard" x="880" y="20">y==10</label><label kind="synchronisation" x="872" y="-8">Act_Pass!</label><label kind="assignment" x="820" y="30">y=0,Lpass_f(),Lleav_t()</label><nail x="900" y="50"/></transition><transition><source ref="id26"/><target ref="id27"/><label kind="synchronisation" x="1100" y="40">Leave!</label><label kind="assignment" x="1020" y="30">y=0</label><nail x="1100" y="50"/></transition><transition><source ref="id27"/><target ref="id24"/><label kind="guard" x="1432" y="24">y==0</label><label kind="assignment" x="1408" y="40">y=0,Lleav_f()</label><nail x="1472" y="16"/></transition><transition><source ref="id28"/><target ref="id18"/><label kind="guard" x="480" y="-55">y==5</label><label kind="assignment" x="420" y="-45">y=0,Lpass_t()</label><nail x="500" y="-25"/></transition></template><template><name>CCSL1</name><declaration>/*
+void Pass_tick_h(){
+	Pass_tick=true;
+	Close_tick=false;
+	Open_tick=false;
+}
+
+void Close_tick_h(){
+	Pass_tick=false;
+	Close_tick=true;
+	Open_tick=false;
+}
+
+void Open_tick_h(){
+	Pass_tick=false;
+	Close_tick=false;
+	Open_tick=true;
+}
+*/</declaration><location id="id29" x="16" y="-200"><name x="6" y="-230">Pass</name></location><location id="id30" x="-104" y="-104"><name x="-114" y="-134">Close</name></location><location id="id31" x="0" y="0"><name x="-10" y="-30">Open</name></location><init ref="id31"/><transition><source ref="id29"/><target ref="id31"/><label kind="synchronisation" x="8" y="-112">Act_Open?</label></transition><transition><source ref="id30"/><target ref="id29"/><label kind="synchronisation" x="-96" y="-200">Act_Pass?</label><nail x="-48" y="-184"/></transition><transition><source ref="id31"/><target ref="id30"/><label kind="synchronisation" x="-112" y="-67">Act_Close?</label></transition></template><system>
+system Gate, Train, CCSL1;
+</system></nta>

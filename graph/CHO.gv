@@ -1,0 +1,20 @@
+digraph CHO{
+	rankdir=LR;
+	node[shape=doublecircle];
+	p_new[label="new\ninit"];
+	p0[label="p0"];
+	q0[label="q0"];
+	
+	node[shape=circle];
+	p1[label="..."];
+	q1[label="..."];
+	pn[label="pn"];
+	qn[label="qn"];
+
+	p_new->p0;
+	p_new->q0;
+	p0->p1;
+	p1->pn;
+	q0->q1;
+	q1->qn;
+}

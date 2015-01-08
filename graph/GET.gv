@@ -1,0 +1,8 @@
+digraph GET{
+	rankdir=LR;
+	node[shape=doublecircle];
+	q0[label="q0\n{l}"];
+	node[shape=circle];
+	q1[label="q1\n{l}"];
+	q0->q1[label="m?,{y:=0}"];
+}

@@ -1,0 +1,11 @@
+digraph Q{
+	rankdir=LR;
+	node[shape=doublecircle];
+	q0[label="q0"];
+	node[shape=circle];
+	q1[label="..."];
+	qn[label="qn"];
+	
+	q0->q1;
+	q1->qn;
+}

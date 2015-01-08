@@ -1,0 +1,97 @@
+\begin{thebibliography}{10}
+
+\bibitem{hoare78}
+C.~A.~R. Hoare, ``Communicating sequential processes,'' {\em Commun. ACM},
+  vol.~21, pp.~666--677, Aug. 1978.
+
+\bibitem{schneider06}
+J.~Ouaknine and S.~Schneider, ``Timed csp: A retrospective,'' 2006.
+
+\bibitem{milner82}
+R.~Milner, {\em A Calculus of Communicating Systems}.
+\newblock Secaucus, NJ, USA: Springer-Verlag New York, Inc., 1982.
+
+\bibitem{schneider95}
+S.~Schneider, ``An operational semantics for timed csp,'' {\em Inf. Comput.},
+  vol.~116, pp.~193--213, Feb. 1995.
+
+\bibitem{alur94}
+R.~Alur and D.~L. Dill, ``A theory of timed automata,'' {\em Theor. Comput.
+  Sci.}, vol.~126, pp.~183--235, Apr. 1994.
+
+\bibitem{chen12}
+Y.~Chen, ``Stec: A location-triggered specification language for real-time
+  systems,'' in {\em ISORC Workshops}, pp.~1--6, IEEE, 2012.
+
+\bibitem{andre08}
+C.~Andr{\'e} and F.~Mallet, ``Clock constraints in uml/marte ccsl,'' Research
+  Report RR-6540, 2008.
+
+\bibitem{gascon11}
+R.~Gascon, F.~Mallet, and J.~DeAntoni, ``Logical time and temporal logics:
+  Comparing uml marte/ccsl and psl,'' in {\em TIME} (C.~Combi, M.~Leucker, and
+  F.~Wolter, eds.), pp.~141--148, IEEE, 2011.
+
+\bibitem{mallet13}
+F.~Mallet, J.-V. Millo, and Y.~Romenska, ``State-based representation of ccsl
+  operators,'' Research Report RR-8334, July 2013.
+
+\bibitem{suryadevara13}
+J.~Suryadevara, C.~Seceleanu, F.~Mallet, and P.~Pettersson, ``Verifying
+  marte/ccsl mode behaviors using uppaal,'' in {\em 11th International
+  Conference on Software Engineering and Formal Methods}, September 2013.
+
+\bibitem{andre09}
+C.~Andr{\'e}, ``Syntax and semantics of the clock constraint specification
+  language (ccsl),'' Research Report RR-6925, 2009.
+
+\bibitem{CK05}
+S.~Cattani and M.~Kwiatkowska, ``A refinement-based process algebra for timed
+  automata,'' {\em Formal Aspects of Computing}, vol.~17, no.~2, pp.~138--159,
+  2005.
+
+\bibitem{abdulla10}
+P.~A. Abdulla, P.~Krc{\'{a}}l, and W.~Yi, ``Sampled semantics of timed
+  automata,'' {\em Logical Methods in Computer Science}, vol.~6, no.~3, 2010.
+
+\bibitem{wu13}
+H.~Wu, Y.~Chen, and M.~Zhang, ``On denotational semantics of spatial-temporal
+  consistency language - stec,'' in {\em TASE}, pp.~113--120, IEEE, 2013.
+
+\bibitem{mallet10}
+F.~Mallet, {\em Logical Time @ Work for the Modeling and Analysis of Embedded
+  Systems}.
+\newblock Lambert Academic Publisher LAP, 2011.
+\newblock ISBN: 978-3-8433-9388-1.
+
+\bibitem{deantoni12}
+J.~Deantoni and F.~Mallet, ``Timesquare: Treat your models with logical time,''
+  in {\em TOOLS (50)} (C.~A. Furia and S.~Nanz, eds.), vol.~7304 of {\em
+  Lecture Notes in Computer Science}, pp.~34--41, Springer, 2012.
+
+\bibitem{zaretska}
+I.~Zaretska, G.~Zholtkevych, G.~Zholtkevych, F.~Mallet, and
+  V.~Mathematicalmodeling, ``Clocks model for specification and analysis of
+  timing in real-time embedded systems.''
+
+\bibitem{UML}
+O.~M. Group, {\em UML Profile for MARTE: Modeling and Analysis of Real-Time
+  Embedded Systems Version 1.0}.
+\newblock Object Management Group, 2009.
+
+\bibitem{diekert08}
+V.~Diekert and P.~Gastin, ``First-order definable languages,'' in {\em Logic
+  and Automata: History and Perspectives, Texts in Logic and Games},
+  pp.~261--306, Amsterdam University Press, 2008.
+
+\bibitem{alur95}
+R.~Alur and D.~Dill, ``Automata-theoretic verification of real time systems,''
+  1995.
+
+\bibitem{roscoe83}
+A.~W. Roscoe, ``A csp solution to the 'trains' problem,'' in {\em The Analysis
+  of Concurrent Systems} (B.~T. Denvir, W.~T. Harwood, M.~I. Jackson, and M.~J.
+  Wray, eds.), vol.~207 of {\em Lecture Notes in Computer Science},
+  pp.~384--388, Springer, 1983.
+
+\end{thebibliography}
