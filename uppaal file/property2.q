@@ -3,4 +3,4 @@
 /*
 
 */
-//NO_QUERY
+true --> close_tick()

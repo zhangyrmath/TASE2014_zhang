@@ -1,0 +1,7 @@
+digraph ALPHA{
+	node[shape=doublecircle];
+	p0[label="p0\n{l}"];
+	node[shape=circle];
+	p1[label="p1\n{l'}"];
+	p0->p1[label="a, y==delta, {y:=0}"];
+}

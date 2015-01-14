@@ -1,0 +1,11 @@
+digraph PAR{
+	rankdir=LR;
+	node[shape=doublecircle];
+	pq0[label="<p0,q0>"];
+	node[shape=circle];
+	n1[label="..."];
+	n2[label="..."];
+	n3[label="..."];
+
+	p0->p1;
+	p1->pn;

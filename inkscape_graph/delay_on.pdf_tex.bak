@@ -1,0 +1,57 @@
+%% Creator: Inkscape 0.48.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'delay_on.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+
+\begingroup
+  \makeatletter
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}
+    \renewcommand\color[2][]{}%
+  }
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}
+    \renewcommand\transparent[1]{}%
+  }
+  \providecommand\rotatebox[2]{#2}
+  \ifx\svgwidth\undefined
+    \setlength{\unitlength}{595.27558594pt}
+  \else
+    \setlength{\unitlength}{\svgwidth}
+  \fi
+  \global\let\svgwidth\undefined
+  \makeatother
+  \begin{picture}(1,0.53756614)%
+    \put(0,0){\includegraphics[width=\unitlength]{delay_on.pdf}}%
+    \put(0.08065457,0.43277019){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{ZYR}}}%
+    \put(0.10016383,0.33158625){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{c}}}%
+    \put(0.02164078,0.22695287){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{appr_delay}}}%
+    \put(0.26105194,0.29109761){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.39093441,0.2944799){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0.5117572,0.29583746){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.64014255,0.2944799){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0.27765378,0.07737681){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{<2}}}%
+    \put(0.50299857,0.0773753){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{=2}}}%
+  \end{picture}%
+\endgroup

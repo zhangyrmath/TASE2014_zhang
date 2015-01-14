@@ -3,4 +3,9 @@
 /*
 
 */
-//NO_QUERY
+true --> close_tick()
+
+/*
+
+*/
+train_pass() --> pass_tick()

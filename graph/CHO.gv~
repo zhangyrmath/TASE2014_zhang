@@ -1,0 +1,4 @@
+digraph CHO{
+	node[shape=doublecircle];
+	
+}

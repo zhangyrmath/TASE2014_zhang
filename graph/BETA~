@@ -1,0 +1,5 @@
+digraph BETA{
+	node[shape=doublecircle];p0;
+	node[shape=circle];
+	p0->p1[label="a, y==delta, {y:=0}"];
+}
